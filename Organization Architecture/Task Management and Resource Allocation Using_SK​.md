@@ -1,3 +1,9 @@
+| Názov | Task Management and Resource Allocation Using |
+|-|-|
+| Dátum schválenia | 03.10.2024 |
+| Kategória | Štandard |
+
+
 # Definícia
 
 Tento štandard vyžaduje, aby všetky úlohy organizácie boli spravované prostredníctvom centralizovaného systému riadenia úloh s plne integrovaným riadením zdrojov a sledovaním pracovného času. Cieľom je zabezpečiť komplexnú viditeľnosť a zodpovednosť za všetku prácu vykonávanú organizáciou.
