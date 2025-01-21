@@ -1,3 +1,8 @@
+| Názov | Container Network Interface (CNI) Standard for Kubernetes Environments Preference for Cilium |
+|-|-|
+| Dátum schválenia | 03.10.2024 |
+| Kategória | Štandard |
+
 # Definícia
 
 Tento štandard vyžaduje preferované rozhranie Container Network Interface (CNI) pre Kubernetes prostredia nasadené v rámci organizácie. Cilium je stanovené ako preferované CNI vďaka svojej vynikajúcej výkonnosti, schopnostiam sieťovej evolúcie a pretrvávajúcej podpore zo strany spoločnosti Cisco po akvizícii Isovalent.

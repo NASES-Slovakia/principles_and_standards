@@ -1,3 +1,8 @@
+| Názov | Containerize Before Virtualization |
+|-|-|
+| Dátum schválenia | 03.10.2024 |
+| Kategória | Štandard |
+
 # Definícia
 
 Tento štandard stanovuje preferované technológie na nasadenie privátneho cloudového riešenia, ktoré podporuje virtualizáciu aj kontajnerizáciu. Primárne odporúčané riešenie je založené na RedHat OpenShift, pričom SUSE Rancher integrovaný s Longhornom je sekundárnou možnosťou, uznávajúc jeho obmedzenia v porovnaní s RedHat OpenShift.

@@ -1,3 +1,8 @@
+| Názov | Containerize Before Virtualization |
+|-|-|
+| Dátum schválenia | 17.07.2024 |
+| Kategória | Princíp |
+
 # Vyhlásenie
 
 Uprednostniť používanie kontajnerizačných technológií pred virtualizáciou pri nasadzovaní aplikácií s cieľom maximalizovať efektivitu zdrojov, škálovateľnosť a agilitu.
