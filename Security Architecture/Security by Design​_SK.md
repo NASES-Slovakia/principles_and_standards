@@ -1,3 +1,9 @@
+| Názov | Security by Design |
+|-|-|
+| Dátum schválenia | 03.10.2024 |
+| Kategória | Princíp |
+
+
 # Vyhlásenie
 
 Bezpečnosť musí byť integrovaná do celého životného cyklu návrhu, vývoja a prevádzky systémov, namiesto spoliehania sa na skrytosť ako prostriedok ochrany systémov. Každá architektonická súčasť musí byť navrhnutá s najvyššou prioritou na bezpečnosť, pričom sa kladie dôraz na stratégiu „shift left“, ktorá rieši bezpečnostné otázky už v najskorších fázach vývoja.
