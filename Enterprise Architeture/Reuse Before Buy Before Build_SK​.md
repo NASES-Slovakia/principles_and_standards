@@ -1,3 +1,8 @@
+| Názov | Reuse Before Buy Before Build |
+|-|-|
+| Dátum schválenia | 17.07.2024 |
+| Kategória | Princíp |
+
 # Vyhlásenie
 
 Tento princíp usmerňuje najprv zvážiť opätovné použitie existujúcich riešení, keď sa uvažuje o nových alternatívach. Keď sú potrebné nové riešenia, je potrebné uprednostniť nákup pred vývojom.
