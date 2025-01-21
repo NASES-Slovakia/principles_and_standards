@@ -1,3 +1,8 @@
+| Názov | Application Deliveries Use Operator Pattern |
+|-|-|
+| Dátum schválenia | 17.7.2024 |
+| Kategória | Štandard |
+
 # Definícia
 
 Riadenie dodávok aplikácií a ich životného cyklu musí využívať vzor Operátorov na zvýšenie automatizácie, škálovateľnosti a spoľahlivosti v prostredí Kubernetes.

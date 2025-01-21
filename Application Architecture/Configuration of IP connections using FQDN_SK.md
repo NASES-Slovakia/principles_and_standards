@@ -1,3 +1,8 @@
+| Názov | Configuration of IP connections using FQDN |
+|-|-|
+| Dátum schválenia | 17.7.2024 |
+| Kategória | Štandard |
+
 # Definícia
 
 Tento štandard vyžaduje, aby IP pripojenia boli konfigurované pomocou úplných doménových mien (FQDN) namiesto priamych IP adries, pričom konfiguračné parametre musia byť uložené v externých konfiguračných súboroch alebo parametroch namiesto toho, aby boli pevne zakódované v zdrojovom kóde.
