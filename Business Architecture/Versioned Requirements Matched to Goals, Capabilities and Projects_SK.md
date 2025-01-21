@@ -1,3 +1,9 @@
+| Názov | Versioned Requirements Matched to Goals, Capabilities and Projects |
+|-|-|
+| Dátum schválenia | 17.07.2024 |
+| Kategória | Princíp |
+
+
 # Vyhlásenie
 
 Kľúčové požiadavky musia byť verzované a zosúladené s cieľmi, schopnosťami a projektmi organizácie a musia byť vzájomne prepojené závislosťami pred vypracovaním architektonických konceptov.
