@@ -41,10 +41,5 @@ Navrhovať a vyvíjať systémy pomocou princípov cloud-native dizajnu na zabez
 
 - **Architektúra mikroslužieb**: Rozdelenie monolitických aplikácií na mikroslužby, ktoré môžu byť nezávisle nasadzované a škálované.
 - **Serverless computing**: Používanie serverless rámcov na budovanie aplikácií, ktoré sa automaticky škálujú na základe dopytu a znižujú náklady na správu serverov.
-- **Kontajnery a Kubernetes**: Nasadzovanie aplikácií pomocou kontajnerov, ktoré sú riadené Kubernetes na efektívne škálovanie a správu.
+- **Kontajnery a Kubernetes**: Nasadzovanie aplikácií pomocou kontajnerov, ktoré sú riadené Kubernetes na efektívne škálovanie a spravovanie.
 - **Cloud-native databázy**: Využívanie cloud-native databáz a dátových služieb, ktoré poskytujú vysokú dostupnosť, škálovateľnosť a spravované operácie.
-
-
-
-
-
