@@ -6,7 +6,7 @@
 
 # Definícia
 
-Tento štandard vyžaduje, aby všetky infraštruktúrne zdroje boli spravované pomocou Infraštuktúry ako Kód (IaC). Pre IaC sa používa ekosystém Terraform / OpenTofu.
+Tento štandard vyžaduje, aby všetky infraštruktúrne zdroje boli spravované pomocou Infraštuktúry ako Kód (IaC). Pre IaC sa používa ekosystém Terraform/OpenTofu.
 
 # Účel
 
@@ -39,8 +39,4 @@ Iba výhradné používanie IaC môže zaručiť správnu konzistenciu prostred�
 # Súlad
 
 - Pravidelné audity budú vykonávané na zabezpečenie dodržiavania tohto štandardu.
-- Všetky zdroje, ktoré neexistujú v IaC, musia byť zdokumentované a musia byť naplánované a realizované nápravné opatrenia.
-
-
-
-
+- Všetky zdroje, ktoré neexistujú v IaC, musia byť zdokumentované. Rovnako musia byť naplánované a realizované nápravné opatrenia.
