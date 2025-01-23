@@ -32,7 +32,3 @@ LetsEncrypt poskytuje dôveryhodné certifikáty zadarmo s nástrojmi na automat
 
 - Pravidelné audity budú vykonávané na zabezpečenie dodržiavania tohto štandardu.
 - Všetky služby, ktoré tento štandard nedodržiavajú, musia byť zdokumentované a musia byť naplánované a realizované nápravné opatrenia.
-
-
-
-
