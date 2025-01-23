@@ -6,7 +6,7 @@
 
 # Definícia
 
-Všetky služby navrhnuté organizáciou NASES alebo pre NASES by mali byť navrhnuté v súlade s manifestom 12 Factor Apps.
+Všetky služby navrhnuté organizáciou NASES alebo pre NASES by mali byť navrhnuté v súlade s manifestom „12 Factor Apps“.
 
 # Účel
 
@@ -16,11 +16,11 @@ Zabezpečiť vysokokvalitný a udržateľný dizajn aplikácií.
 
 Tento štandard sa vzťahuje na všetok softvér vytvorený na mieru, ktorý vlastní organizácia.
 
-Softvérové produkty z pultu, ktoré porušujú dizajn 12 Factor Apps, by sa mali vyhnúť.
+Softvérové produkty z pultu, ktoré porušujú dizajn „12 Factor Apps“, by sa mali vylúčiť.
 
 # Dôvod
 
-Manifest 12 Factor je dobre známy súbor najlepších praktík v odvetví softvérového vývoja a dizajnu.
+Manifest „12 Factor Apps“ je dobre známy súbor najlepších praktík v odvetví softvérového vývoja a dizajnu.
 
 Je to metodológia nezávislá od platformy a technológie, ktorá je použiteľná na väčšinu softvérových projektov v rámci NASES.
 
@@ -30,9 +30,9 @@ Podrobná technická špecifikácia projektu by mala obsahovať vysvetlenie, ako
 
 # Súlad
 
-Všetky projektové požiadavky by mali obsahovať odkaz na manifest 12 faktorov.
+Všetky projektové požiadavky by mali obsahovať odkaz na manifest „12 Factor“.
 
-Projektové špecifikácie, ktoré neobsahujú informácie o tom, ako sú faktory riešené, alebo priamo navrhujú dizajny porušujúce manifest 12 faktorov, by mali byť zamietnuté.
+Projektové špecifikácie, ktoré neobsahujú informácie o tom, ako sú faktory riešené, alebo priamo navrhujú dizajny porušujúce manifest „12 Factor Apps“, by mali byť zamietnuté.
 
 # Faktory manifestu 12 Factor Apps
 
@@ -67,7 +67,7 @@ Maximalizácia robustnosti rýchlym spustením a elegantným ukončením.
 Zachovanie podobnosti medzi vývojovým, testovacím a produkčným prostredím.
 
 ## XI. Logy
-logy spracovávané ako prúdy udalostí.
+Logy spracovávané ako prúdy udalostí.
 
 ## XII. Administračné procesy
 Administračné a manažérske úlohy spúšťané ako jednorazové procesy.
