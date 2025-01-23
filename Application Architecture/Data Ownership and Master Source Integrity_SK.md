@@ -44,6 +44,3 @@ Riadenie dát hlavným zdrojom zabezpečuje, že dáta sú presné, konzistentn�
 ## Dokumentácia:
 - Udržiavať komplexnú dokumentáciu hlavných zdrojov dát vrátane dátových modelov, rozhraní a integračných bodov.
 - Zabezpečiť, aby spotrebitelia dát mali prístup k aktuálnej dokumentácii na presné používanie dát.
-
-
-
