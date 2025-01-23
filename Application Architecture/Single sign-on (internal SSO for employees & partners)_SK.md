@@ -26,11 +26,10 @@ SSO zlepšuje bezpečnosť a štandardizáciu v správe používateľov, ako aj 
 
 # Požiadavky
 
-- Na zachovanie tejto štandardizácie by všetka autentifikácia v integrovaných nástrojoch mala byť vykonávaná pomocou SSO.
-- Na umožnenie núdzového obnovenia konfigurácie musia všetky nástroje mať lokálne administrátorské účty na správu nástrojov, ktoré umožňujú rekonfiguráciu nástroja v prípade zlyhania pripojenia k poskytovateľovi identity.
+- Na zachovanie tejto štandardizácie by mala všetka autentifikácia v integrovaných nástrojoch byť vykonávaná pomocou SSO.
+- Na umožnenie núdzového obnovenia konfigurácie musia mať všetky nástroje lokálne administrátorské účty na správu nástrojov, ktoré umožňujú rekonfiguráciu nástroja v prípade zlyhania pripojenia k poskytovateľovi identity.
 
 # Súlad
 
 - Pravidelné audity budú vykonávané na zabezpečenie dodržiavania tohto štandardu.
-- Všetky účty nástrojov, ktoré neexistujú u poskytovateľa identity, musia byť zdokumentované a musia byť naplánované a realizované nápravné opatrenia.
-
+- Všetky účty nástrojov, ktoré neexistujú u poskytovateľa identity, musia byť zdokumentované. Rovnako musia byť naplánované a realizované nápravné opatrenia.
