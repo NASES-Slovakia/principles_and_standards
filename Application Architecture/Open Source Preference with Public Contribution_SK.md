@@ -42,7 +42,3 @@ Zverejňovaním open source kódu organizácia podporuje zapojenie a príspevky 
 ## Kompatibilita licencií:
 
 Všetky open source komponenty a vlastný kód musia spĺňať licenčné štandardy, ktoré umožňujú vnútorné používanie aj zverejnenie. Licencie musia zabezpečiť súlad s právami duševného vlastníctva a umožniť ostatným voľne používať, modifikovať a distribuovať softvér za podmienok v súlade s princípmi otvoreného zdroja.
-
-
-
-
