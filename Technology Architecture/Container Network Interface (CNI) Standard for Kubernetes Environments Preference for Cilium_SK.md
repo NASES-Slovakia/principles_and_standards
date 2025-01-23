@@ -19,7 +19,7 @@ Tento štandard sa vzťahuje na všetky nasadenia Kubernetes v rámci organizác
 
 ## Výkon a kvalita
 
-- Cilium je konzistentne hodnotené ako jedno z najvýkonnejších CNI pre Kubernetes prostredia, ponúkajúce nízku latenciu a vysokú priepustnosť, čo bolo demonštrované v benchmarkových štúdiách.
+- Cilium je konzistentne hodnotené ako jedno z najvýkonnejších CNI pre Kubernetes prostredia, ponúkajúce nízku latenciu a vysokú priepustnosť, čo bolo demonštrované v štandardizačných (benchmark) štúdiách.
 - Podľa ITNEXT Benchmark Results pre Kubernetes Network Plugins CNI poskytuje Cilium špičkový výkon na sieťach s priepustnosťou nad 40 Gbps.
 
 ## Akvizícia Isovalent spoločnosťou Cisco
@@ -53,7 +53,7 @@ Tento štandard sa vzťahuje na všetky nasadenia Kubernetes v rámci organizác
 
 ## Prevádzkové riadenie a pozorovanie
 
-- Nativné pozorovacie funkcie Cilium musia byť povolené na poskytovanie hlbokej viditeľnosti do sieťových tokov, vynucovania politík a výkonnostných metrík.
+- Natívne pozorovacie funkcie Cilium musia byť povolené na poskytovanie hlbokej viditeľnosti do sieťových tokov, vynucovania politík a výkonnostných metrík.
 - Použitie nástroja Hubble, pozorovacieho komponentu Cilium, je povinné na podporu monitorovania, sledovania a auditovania sieťovej prevádzky v Kubernetes klastroch.
 
 ## Bezpečnostné politiky
@@ -63,7 +63,7 @@ Tento štandard sa vzťahuje na všetky nasadenia Kubernetes v rámci organizác
 
 ## Škálovateľnosť
 
-- Cilium musí byť nasadené tak, aby podporovalo požiadavky na škálovateľnosť veľkých Kubernetes prostredí, najmä tých, ktoré zahŕňajú multi-cloud alebo hybridné nasadenia.
+- Cilium musí byť nasadené tak, aby podporovalo požiadavky na škálovateľnosť veľkých Kubernetes prostredí, najmä tých, ktoré zahŕňajú multi-cloudové alebo hybridné nasadenia.
 - Musí byť implementované automatizované nasadzovanie a konfigurácia, aby sa zabezpečilo, že nasadenia Cilium sú v súlade s rastovými a škálovacími stratégiami organizácie.
 
 ## Podpora a údržba
@@ -75,7 +75,7 @@ Tento štandard sa vzťahuje na všetky nasadenia Kubernetes v rámci organizác
 
 ## Audity
 
-- Pravidelné audity budú vykonávané na zabezpečenie, že Cilium je nasadené a nakonfigurované podľa tohto štandardu. Audity overia správne používanie pozorovacích nástrojov Cilium, implementáciu bezpečnostných politík a súlad so škálovateľnými požiadavkami.
+- Pravidelné audity budú vykonávané na zabezpečenie toho, aby bolo Cilium nasadené a nakonfigurované podľa tohto štandardu. Audity overia správne používanie pozorovacích nástrojov Cilium, implementáciu bezpečnostných politík a súlad so škálovateľnými požiadavkami.
 
 ## Nedodržiavanie
 
