@@ -46,7 +46,7 @@ Uistite sa, že vaše príspevky dodržiavajú existujúcu štruktúru a štanda
 ## Kontakt
 Pre otázky, spätnú väzbu alebo návrhy, prosím, kontaktujte architektonickú komisiu na:
 
-- **E-mail**: [architecture@nases.gov.sk?subject=#principy_a_standardy](mailto:architecture@nases.gov.sk?subject=#principy_a_standardy)
+- **E-mail**: [architecture@nases.gov.sk](mailto:architecture@nases.gov.sk?subject=#principy_a_standardy)
 - **Web**: [nases.gov.sk](https://nases.gov.sk/kontakt)
 
 ---
