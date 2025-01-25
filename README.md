@@ -46,8 +46,8 @@ Uistite sa, že vaše príspevky dodržiavajú existujúcu štruktúru a štanda
 ## Kontakt
 Pre otázky, spätnú väzbu alebo návrhy, prosím, kontaktujte architektonickú komisiu na:
 
-- **E-mail**: architecture-committee@nases.org
-- **Slack**: #architecture-standards
+- **E-mail**: architecture@nases.gov.sk
+- **Web**: [#architecture-standards](https://nases.gov.sk/kontakt)
 
 ---
 
@@ -103,8 +103,8 @@ Please ensure your contributions adhere to the repository's existing structure a
 ## Contact
 For questions, feedback, or suggestions, please reach out to the architecture committee at:
 
-- **Email**: architecture-committee@nases.org
-- **Slack**: #architecture-standards
+- **E-mail**: architecture@nases.gov.sk
+- **Web**: [#architecture-standards](https://nases.gov.sk/kontakt)
 
 ---
 
