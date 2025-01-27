@@ -3,7 +3,7 @@
 *English version follows Slovak. [Jump to English version](#principles-and-standards)*
 
 ## Prehľad
-Tento repozitár obsahuje princípy a štandardy architektúry, ktoré boli vytvorené a schválené internou architektonickou komisiou NASES. Tieto princípy sú navrhnuté tak, aby zabezpečili konzistenciu, škálovateľnosť a súlad naprieč všetkými projektmi v organizácii. Štandardy a princípy sú publikované v dvoch jazykoch: slovenskom a anglickom. Jazyková verzia je rozlíšená pomocou názvoslovia: `_SK` pre slovenský jazyk a `_EN` pre anglický jazyk.
+Tento repozitár obsahuje princípy a štandardy architektúry, ktoré boli vytvorené a schválené internou architektonickou komisiou NASES. Tieto princípy sú navrhnuté tak, aby zabezpečili konzistenciu, škálovateľnosť a súlad naprieč všetkými projektmi v organizácii. Štandardy a princípy sú publikované v dvoch jazykoch: slovenskom a anglickom. Jazyková verzia je rozlíšená pomocou pomenovania súboru: `_SK` pre slovenský jazyk a `_EN` pre anglický jazyk.
 
 ## Štruktúra Repozitára
 Repozitár je rozdelený do nasledovných hlavných kategórií:
@@ -28,7 +28,7 @@ Ak chcete preskúmať repozitár:
 3. Otvorte súbory vo formáte Markdown a prehliadajte si podrobné princípy a štandardy. Vyberte si vhodnú jazykovú verziu na základe názvu súboru (`_SK` pre slovenský jazyk alebo `_EN` pre anglický jazyk).
 
 ## Prispievanie
-Radi privítame príspevky na vylepšenie repozitára. Ak chcete prispieť:
+Radi privítame príspevky na vylepšenie repozitára. Ak chcete prispieť postupujte nasledovne:
 
 1. Vytvorte si fork repozitára.
 2. Vytvorte novú vetvu pre svoje zmeny:
