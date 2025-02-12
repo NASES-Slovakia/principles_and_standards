@@ -61,7 +61,7 @@ GitLabe opakovanú review.
 
 Po schválení maintainer alebo developer môže squashnúť commity pred
 mergom bez ďalších úprav.\
-Pokiaľ trebarebase kvôli riešeniu konfliktu je postup na dohode medzi
+Pokiaľ je potrebný rebase kvôli riešeniu konfliktu je postup na dohode medzi
 developerom a reviewerom.
 
 # CI/CD
