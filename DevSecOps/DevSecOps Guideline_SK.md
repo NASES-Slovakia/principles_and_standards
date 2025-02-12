@@ -1,7 +1,7 @@
 | Name | DevSecOps Guideline |
 |-|-|
-| Approval date | 6.2.2025 |
-| Category | Odporúčanie |
+| Dátum schválenia | 6.2.2025 |
+| Kategória | Odporúčanie |
 
 # Development
 
