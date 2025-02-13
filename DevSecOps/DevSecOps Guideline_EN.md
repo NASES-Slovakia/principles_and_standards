@@ -122,12 +122,12 @@ GitLab has an activated Ultimate license. We prefer utilizing the features this 
 ## Tests assigmens to enviroment
 
  
- | Prostredie            | Testy                          | Spustenie
+ | Environment            | Tests                          | Execution
  | --------------------- | ------------------------------ | -------------------
  | Development              | Unit , SAST, Integration        | Automatic
- | Test enviroment | E2E, DAST                      | Automatic
- | Test enviroment| PEN, Load                  | Manual
- | UAT                   | UAT                            | ManuálManualne
+ | Test | E2E, DAST                      | Automatic
+ | Test | PEN, Load                  | Manual
+ | UAT                   | UAT                            | Manual
  
 
 
