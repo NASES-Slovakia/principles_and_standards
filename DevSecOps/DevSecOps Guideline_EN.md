@@ -49,14 +49,15 @@ The supplier is responsible for delivering:
 - A CI pipeline for creating and signing a container image,
 - A Kubernetes operator or Helm chart for deployment into a Kubernetes cluster,
 - Deployment configuration for Helm/operator for defined environments,
-- A Terraform template for infrastructure updates,
+- A Terraform template for infrastructure updates vm, network connection ...,
+- Skripts for service configuration on virtualization enviroment,
 - Documentation of dependencies, parameters, and deployment descriptions for all environments.
 
 Deployment is expected to be performed using ArgoCD. Confidential information/secrets are stored in Hashicorp Vault. Infrastructure is managed via Terraform scripts.
 
 Releases must be tagged and versioned according to the SemVer methodology: <https://semver.org/>.
 
-Applications must be distributed as Docker images. The Docker image should be the result of the GitLab CI build process.
+Applications must be distributed in the form of a Docker image. The Docker image should be the result of a process in GitLab CI. The process includes creation, testing, and verification of the image. A successfully completed process produces a signed image. Only signed images are deployed.
 
 # Security
 
@@ -77,9 +78,11 @@ Requirements for delivered components in a Kubernetes environment:
 - Access control -- Admission Controllers, ServiceAccount,
 - Resource limits for containers.
 
+The default deny rule is applied in all networks.
+
 # Observability
 
-Framework used: [OpenTelemetry](https://opentelemetry.io).
+Framework used [OpenTelemetry](https://opentelemetry.io).
 
 Collected data:
 
@@ -100,6 +103,8 @@ Documentation must be part of the repository in a text format that GitLab can di
 # Environment
 
 The application will run in Oracle PCA in an OKE cluster, potentially in RedHat OpenShift in the future. Deployment uses ArgoCD.
+
+All objects of the module are placed in the module's namespace.
 
 Environments are divided by purpose:
 

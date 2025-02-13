@@ -74,18 +74,13 @@ relevantných registrov v rámci GitLab repozitára.
 Dodávateľ je zodpovedný za dodanie:
 
 -   CI pipeline prebuild a vykonanie testov modulu,
-
 -   CI pipeline pre vytvorenie a podpísanie container image,
-
 -   kubernetes operátor alebo helm chart pre nasadenie do kubernetes
     klastra,
-
 -   konfiguráciu nasadenia pre helm/operátor pre definované prostredia,
-
--   terraform šablónu na aktualizáciu infraštruktúry,
-
--   dokumentáciu závislostí, parametrov a popis nasadenia do všetkých
-    prostredí.
+-	terraform šablónu na aktualizáciu infraštruktúry vm, sieťové prepojenia ...,
+-	skripty na konfiguráciu služieb vo virtualizačnom prostredí,
+-	dokumentáciu závislostí, parametrov a popis nasadenia do všetkých prostredí. 
 
 Pri CD sa počíta s nasadzovaním pomocou ArgoCD. Utajované
 skutočnosti/tajomstvá sa ukladajú do Hashicorp Vault. Infraštruktúra je
@@ -94,8 +89,7 @@ riadená pomocou terraform skriptov.
 Releasy musia byť označené tagom a určením verzie, podľa metodiky
 SemVer: <https://semver.org/>.
 
-Aplikácie musia byť distribuované vo forme Docker image. Docker image má
-byť výsledkombuildu v GitLab CI.
+Aplikácie musia byť distribuované vo forme Docker image. Docker image má byť výsledkom procesu v GitLab CI. Proces obsahuje vytvorenie, testy a kontrolu image. Úspešné ukončenie procesu vytvorí podpísaný image. Nasadzujú sa len podpísané image.
 
 # Zabezpečenie
 
@@ -127,9 +121,11 @@ Požiadavky na dodané komponenty v kuberentes prostredí:
 
 -   resource limits pre kontainery,
 
+Vo všetkých sieťach je aplikované pravidlo default deny.
+
 # Observability 
 
-Použitý framework: [OpenTelemerty](https://opentelemetry.io).
+Použitý framework [OpenTelemerty](https://opentelemetry.io).
 
 Zberané dáta:
 
@@ -157,6 +153,8 @@ GitLab zobrazovať - preferuje sa Markdown alebo AsciiDoc.
 
 Aplikácia bude bežať v Oracle PCA v OKE klastri, perspektívne možno v
 RedHat Openshift. Na nasadenie sa používa ArgoCD.
+
+Všetky objekty modulu sú umiestené v namespace modulu.
 
 Rozdelenie prostredí podľa účelu:
 
