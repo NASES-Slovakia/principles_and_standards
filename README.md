@@ -14,6 +14,7 @@ Repozitár je rozdelený do nasledovných hlavných kategórií:
 - **Organizačná architektúra**: Štandardy pre riadenie úloh a prideľovanie zdrojov.
 - **Bezpečnostná architektúra**: Princípy na začlenenie bezpečnosti do návrhu systémov.
 - **Technologická architektúra**: Štandardy pre nasadenie v cloude, kontajnerizáciu a virtualizačné technológie.
+- **DevSecOps**: Usmernenia pre integráciu bezpečnosti do vývoja a prevádzky, vrátane automatizácie a CI/CD bezpečnostných kontrol.
 
 Každá kategória obsahuje podrobné Markdown dokumenty so špecifickými usmerneniami a príkladmi v slovenskom aj anglickom jazyku.
 
@@ -71,6 +72,7 @@ The repository is organized into the following main categories:
 - **Organization Architecture**: Standards for task management and resource allocation.
 - **Security Architecture**: Principles for incorporating security by design.
 - **Technology Architecture**: Standards for cloud deployment, containerization, and virtualization technologies.
+- **DevSecOps**: Guidelines for integrating security into development and operations, including automation and CI/CD security controls.
 
 Each category contains detailed Markdown documents with specific guidelines and examples in both Slovak and English.
 
