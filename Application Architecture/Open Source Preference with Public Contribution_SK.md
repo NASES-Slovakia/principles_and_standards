@@ -42,3 +42,9 @@ Zverejňovaním open source kódu organizácia podporuje zapojenie a príspevky 
 ## Kompatibilita licencií:
 
 Všetky open source komponenty a vlastný kód musia spĺňať licenčné štandardy, ktoré umožňujú vnútorné používanie aj zverejnenie. Licencie musia zabezpečiť súlad s právami duševného vlastníctva a umožniť ostatným voľne používať, modifikovať a distribuovať softvér za podmienok v súlade s princípmi otvoreného zdroja.
+
+## Požiadavky na verejné obstarávanie:
+
+Ak existujú overené open source riešenia, ktoré dokážu pokryť požiadavky verejného obstarávateľa, má sa takáto možnosť výslovne požadovať v rámci súťažných podkladov. Požiadavka na open source riešenie je legitímna v prípadoch, keď existujú dostupné alternatívy na trhu, ktoré sú overené praxou a dostatočne podporované.​
+
+​V prípade, že je navrhované proprietárne riešenie, musí byť podporené dostatočným počtom referencií o reálnych nasadeniach v príslušnom regióne alebo porovnateľných podmienkach. Takéto referencie slúžia ako dôkaz spoľahlivosti, udržateľnosti a vyspelosti proprietárneho prístupu.​
