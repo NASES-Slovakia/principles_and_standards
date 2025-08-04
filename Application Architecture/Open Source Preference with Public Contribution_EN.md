@@ -43,8 +43,9 @@ By publishing open source code, the organization encourages community engagement
 
 All open source components and bespoke code must adhere to licensing standards that allow for both internal use and publication. Licensing must ensure compliance with intellectual property laws and allow others to freely use, modify, and distribute the software, under conditions aligned with open source principles.
 
-## License Compatibility
+## Procurement Requirements
 
 If there are proven open source solutions capable of meeting the requirements of the contracting authority, such a preference should be explicitly stated in the procurement documentation. A requirement for an open source solution is legitimate when such alternatives exist on the market, are backed by practice, and are sufficiently supported.​
 
 In cases where a proprietary solution is proposed, it must be supported by a sufficient number of real-world references from deployments in the relevant region or comparable contexts. Such references serve as evidence of the reliability, sustainability, and maturity of the proprietary approach.​
+
