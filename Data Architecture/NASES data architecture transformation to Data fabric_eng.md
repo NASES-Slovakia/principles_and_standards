@@ -1,9 +1,6 @@
 | Name | NASES data architecture transformation to Data fabric |
-
 |-|-|
-
 | Approval date | 4.9.2025 |
-
 | Category | Principle |
 
 NASES will adopt a Data Fabric architecture to unify data management, enhance interoperability, and enable intelligent automation across distributed data environments.

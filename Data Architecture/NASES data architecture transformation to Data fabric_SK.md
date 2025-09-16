@@ -1,14 +1,11 @@
 | Názov             | NASES data architecture transformation to Data Fabric |
-
 |-------------------|-------------------------------------------------------|
-
 | Dátum schválenia  | 4.9.2025                                              |
-
 | Kategória         | Princíp                                               |
 
 
 
-\## Vyhlásenie
+## Vyhlásenie
 
 
 
@@ -16,7 +13,7 @@ NASES prechádza na architektúru Data Fabric z cieľom unifikovať dátový man
 
 
 
-\## Odôvodnenie
+## Odôvodnenie
 
 
 
@@ -28,11 +25,11 @@ Data Fabric využíva aktívne metadáta, automatizovanú orchestráciu a samoob
 
 
 
-\- zabezpečenie konzistencie dát a sledovania ich pôvodu naprieč systémami  
+- zabezpečenie konzistencie dát a sledovania ich pôvodu naprieč systémami  
 
-\- podporu požiadaviek na súlad, bezpečnosť a výkonnosť  
+- podporu požiadaviek na súlad, bezpečnosť a výkonnosť  
 
-\- uľahčenie riadenia zmien a dokumentácie pre hlavné dátové zdroje  
+- uľahčenie riadenia zmien a dokumentácie pre hlavné dátové zdroje  
 
 
 
@@ -40,39 +37,39 @@ Postupný prechod na Data Fabric umožní zainteresovaným stranám v NASES prac
 
 
 
-\## Dôsledky
+## Dôsledky
 
 
 
-\### Správa metadát
+### Správa metadát
 
 
 
-\- Aktívne metadáta musia byť zaznamenané, obohacované a využívané na podporu automatizácie a správy  
+- Aktívne metadáta musia byť zaznamenané, obohacované a využívané na podporu automatizácie a správy  
 
 
 
-\### Sledovanie pôvodu dát a vyhľadateľnosť
+### Sledovanie pôvodu dát a vyhľadateľnosť
 
 
 
-\- Toky a transformácia dát musia byť vyhľadateľné, aby sa zabezpečila dôvera, súlad a možnosť odstraňovania chýb  
+- Toky a transformácia dát musia byť vyhľadateľné, aby sa zabezpečila dôvera, súlad a možnosť odstraňovania chýb  
 
 
 
-\### Orchestrácia a automatizácia dát
+### Orchestrácia a automatizácia dát
 
 
 
-\- Presun, transformácia a správa dát budú orchestrálne riadené naprieč platformami  
+- Presun, transformácia a správa dát budú orchestrálne riadené naprieč platformami  
 
 
 
-\### Podpora samoobslužnosti
+### Podpora samoobslužnosti
 
 
 
-\- Používatelia budú schopní vyhľadávať dáta, pristupovať k dátam a využívať ich bez potreby výraznej technickej podpory  
+- Používatelia budú schopní vyhľadávať dáta, pristupovať k dátam a využívať ich bez potreby výraznej technickej podpory  
 
 
 
