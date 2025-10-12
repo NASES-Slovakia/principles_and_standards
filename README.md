@@ -10,6 +10,7 @@ Repozitár je rozdelený do nasledovných hlavných kategórií:
 
 - **Architektúra aplikácií**: Najlepšie postupy a štandardy pre návrh aplikácií, vrátane vzorov, integrácií a konfigurácií systémov.
 - **Biznisová architektúra**: Usmernenia na zosúladenie požiadaviek s cieľmi a schopnosťami organizácie.
+- **Dátová architektúra**: Princípy a štandardy pre správu dát, vrátane modelovania, kvality, integrácie, správy metadát a zabezpečenia dát v súlade s požiadavkami organizácie.
 - **Podniková architektúra**: Odporúčania pre opätovné použitie, nákup alebo vývoj riešení na dosiahnutie efektívnosti.
 - **Organizačná architektúra**: Štandardy pre riadenie úloh a prideľovanie zdrojov.
 - **Bezpečnostná architektúra**: Princípy na začlenenie bezpečnosti do návrhu systémov.
@@ -68,6 +69,7 @@ The repository is organized into the following main categories:
 
 - **Application Architecture**: Best practices and standards for application design, including patterns, integrations, and system configurations.
 - **Business Architecture**: Guidelines for aligning requirements with organizational goals and capabilities.
+- **Data Architecture**: Principles and standards for data management, including modeling, quality, integration, metadata management, and data security aligned with organizational requirements.
 - **Enterprise Architecture**: Recommendations for reusing, buying, or building solutions to achieve efficiency.
 - **Organization Architecture**: Standards for task management and resource allocation.
 - **Security Architecture**: Principles for incorporating security by design.
